@@ -33,6 +33,14 @@ const Contact = () => {
                     </div>
             </div>
         </div>
+
+        <form className="contact-right">
+            <label htmlFor="">Your Name</label>
+            <input type="text" placeholder='Enter your name' name='name'/>
+            <label htmlFor="">Your Email</label>
+            <input type="email" placeholder='Enter your email' name='email' />
+
+        </form>
     </div>
 
     </div> 

@@ -5,7 +5,7 @@ import underline from '../../assets/assets/nav_underline.svg'
 
 export const Navbar = () => {
 
-  const [menu, setMenu] = useState("home");
+  const [menu, setMenu] = useState("services");
 
 
 
